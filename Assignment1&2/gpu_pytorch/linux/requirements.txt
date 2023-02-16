@@ -1,0 +1,16 @@
+comet_ml
+flake8
+isort
+numpy
+opencv-python
+optuna
+pandas
+pytest
+pytorch-lightning
+scipy
+torch
+torchvision
+yacs
+faiss-gpu
+ipykernel
+pip-search
